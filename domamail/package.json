@@ -1,10 +1,10 @@
 {
   "name": "doma-mail-all",
   "version": "1.0.0",
-  "main": "api/index.js",
+  "main": "api/server.js",
   "scripts": {
-    "start": "node api/index.js",
-    "dev": "node api/index.js"
+    "start": "node api/server.js",
+    "dev": "node api/server.js"
   },
   "dependencies": {
     "axios": "^1.6.0",
